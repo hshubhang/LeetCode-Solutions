@@ -22,12 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [0874-backspace-string-compare](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0874-backspace-string-compare](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Array
 |  |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0874-backspace-string-compare](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -53,4 +56,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [0874-backspace-string-compare](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
