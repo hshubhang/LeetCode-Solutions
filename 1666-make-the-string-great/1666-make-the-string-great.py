@@ -8,5 +8,6 @@ class Solution:
                 stack.append(curr_alpha)
         return "".join(stack)
 
+    #trick is to use the ascii characters
             
         
