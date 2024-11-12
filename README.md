@@ -100,4 +100,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0271-encode-and-decode-strings](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0271-encode-and-decode-strings) |
+| [0969-number-of-recent-calls](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0969-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
