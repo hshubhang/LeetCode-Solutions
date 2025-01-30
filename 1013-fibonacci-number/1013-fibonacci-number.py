@@ -1,7 +1,7 @@
-from functools import cache
 class Solution:
-    @cache
+    cache = {0:0, 1:1}
     def fib(self, n: int) -> int:
-        if n <= 1:
-            return n
-        return self.fib(n-1) + self.fib(n-2)
+        if n in self.cache:
+            return self.cache[n]
+        self.cache[n] = self.fib(n-1) + self.fib(n-2)
+        return self.cache[n]
