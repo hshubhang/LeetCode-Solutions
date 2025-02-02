@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0100-same-tree) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0100-same-tree) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -17,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0100-same-tree) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## String
 |  |
 | ------- |
