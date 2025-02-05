@@ -11,3 +11,5 @@ class Solution:
             return False
         else:
             return True
+
+    #return set(sentence) >= set(ascii.ascii_lowercase)
