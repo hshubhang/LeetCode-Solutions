@@ -1,5 +1,6 @@
 class Solution:
     def checkIfPangram(self, sentence: str) -> bool:
+        '''
         hashmap = defaultdict()
         for i in string.ascii_lowercase:
             hashmap[i] = 0
@@ -11,5 +12,5 @@ class Solution:
             return False
         else:
             return True
-
-    #return set(sentence) >= set(ascii.ascii_lowercase)
+        '''
+        return set(sentence) >= set(ascii_lowercase)
