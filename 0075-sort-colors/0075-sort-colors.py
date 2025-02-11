@@ -1,8 +1,17 @@
 class Solution:
     def sortColors(self, nums: List[int]) -> None:
-        for head in range(len(nums)):
-            for head1 in range(head+1, len(nums)):
-                if nums[head] > nums[head1]:
-                    nums[head], nums[head1] = nums[head1], nums[head]
-                
+        start = 0
+        curr = 0
+        end = len(nums) - 1
+        while curr <= end:
+            if nums[curr] == 0:
+                nums[curr], nums[start] = nums[start], nums[curr]
+                start += 1
+                curr += 1
+            elif nums[curr] == 1:
+                curr += 1
+            else:
+                nums[curr], nums[end] = nums[end], nums[curr]
+                end -= 1
+
 
