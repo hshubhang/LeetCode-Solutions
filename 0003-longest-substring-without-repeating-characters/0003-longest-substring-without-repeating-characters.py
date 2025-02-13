@@ -1,9 +1,7 @@
-from collections import defaultdict
-
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        hashmap = defaultdict(int)  # Corrected defaultdict initialization
-        left = best = 0  # No need for `curr`
+        hashmap = defaultdict(int) 
+        left = best = 0 
         
         for right in range(len(s)):
             hashmap[s[right]] += 1
