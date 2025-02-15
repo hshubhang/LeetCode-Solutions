@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1391-counting-elements](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1391-counting-elements) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0792-binary-search](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
