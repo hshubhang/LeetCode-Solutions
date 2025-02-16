@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0075-sort-colors) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0278-first-bad-version) |
