@@ -11,12 +11,11 @@ class Solution:
                 else:
                     right = mid
             return left if nums[left] == target else -1
-
-        # Helper function to find the right boundary (last occurrence)
+            
         def findRight():
             left, right = 0, len(nums) - 1
             while left < right:
-                mid = left + (right - left + 1) // 2  # Bias mid towards right
+                mid = left + (right - left + 1) // 2 
                 if nums[mid] > target:
                     right = mid - 1
                 else:
