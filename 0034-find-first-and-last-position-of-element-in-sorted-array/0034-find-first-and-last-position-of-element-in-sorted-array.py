@@ -1,11 +1,7 @@
-from typing import List
-
 class Solution:
     def searchRange(self, nums: List[int], target: int) -> List[int]:
         if not nums:
             return [-1, -1]
-
-        # Helper function to find the left boundary (first occurrence)
         def findLeft():
             left, right = 0, len(nums) - 1
             while left < right:
@@ -29,7 +25,7 @@ class Solution:
 
         leftIndex = findLeft()
         if leftIndex == -1:
-            return [-1, -1]  # Target not found
+            return [-1, -1]  
         rightIndex = findRight()
 
         return [leftIndex, rightIndex]
