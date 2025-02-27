@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0366-find-leaves-of-binary-tree](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0366-find-leaves-of-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Depth-First Search
 |  |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0339-nested-list-weight-sum](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0339-nested-list-weight-sum) |
+| [0366-find-leaves-of-binary-tree](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0366-find-leaves-of-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Breadth-First Search
 |  |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0366-find-leaves-of-binary-tree](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0366-find-leaves-of-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## String
 |  |
