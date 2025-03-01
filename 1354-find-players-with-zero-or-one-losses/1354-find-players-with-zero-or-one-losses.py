@@ -10,10 +10,8 @@ class Solution:
             winner_hashmap.add(winner)
             loser_hashmap[loser] += 1
 
-        # Players who never lost (in winner_hashmap but not in loser_hashmap)
         arr1 = sorted([player for player in winner_hashmap if player not in loser_hashmap])
 
-        # Players who lost exactly once
         arr2 = sorted([player for player, losses in loser_hashmap.items() if losses == 1])
 
         return [arr1, arr2]
