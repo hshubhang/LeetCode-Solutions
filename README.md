@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1391-counting-elements](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1391-counting-elements) |
 | [1603-running-sum-of-1d-array](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
+| [2211-k-radius-subarray-averages](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2211-k-radius-subarray-averages) |
 | [2358-number-of-ways-to-split-array](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 ## Two Pointers
 |  |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [2211-k-radius-subarray-averages](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2211-k-radius-subarray-averages) |
 ## Prefix Sum
 |  |
 | ------- |
