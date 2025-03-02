@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 | [0412-fizz-buzz](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## Simulation
@@ -244,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
