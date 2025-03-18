@@ -4,7 +4,6 @@ class Solution:
         balloon_dict["b"] = 0
         balloon_dict["a"] = 0
         balloon_dict["l"] = 0
-        balloon_dict["l"] = 0
         balloon_dict["o"] = 0
         balloon_dict["n"] = 0
 
