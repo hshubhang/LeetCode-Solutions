@@ -1,13 +1,10 @@
 class Solution:
     def makeGood(self, s: str) -> str:
         stack = []
-        for curr_alpha in list(s):
-            if stack and abs(ord(curr_alpha) - ord(stack[-1]) ) == 32:
+        for current in list(s):
+            if stack and abs(ord(current) - ord(stack[-1])) == 32:
                 stack.pop()
             else:
-                stack.append(curr_alpha)
+                stack.append(current)
         return "".join(stack)
-
-    #trick is to use the ascii characters
-            
         
