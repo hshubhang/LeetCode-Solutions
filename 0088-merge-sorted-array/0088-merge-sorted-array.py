@@ -1,15 +1,16 @@
 class Solution:
     def merge(self, nums1: List[int], m: int, nums2: List[int], n: int) -> None:
-        nums1_copy = nums1[:m]
-        print(nums1_copy)
-        ptr1 = 0
-        ptr2 = 0
-        p = 0
-        while ptr1 < m or ptr2 < n:
-            if ptr1 < m and (ptr2 >= n or nums1_copy[ptr1] <= nums2[ptr2]):
-                nums1[p] = nums1_copy[ptr1]
-                ptr1 += 1
+        ptr1 = m - 1
+        ptr2 = n - 1
+        p = (m + n) - 1
+
+        for p in range(m+n-1, -1, -1):
+            if ptr2 < 0:
+                break
+            elif ptr1 >= 0 and nums1[ptr1] > nums2[ptr2]:
+                nums1[p] = nums1[ptr1]
+                ptr1 -= 1
             else:
                 nums1[p] = nums2[ptr2]
-                ptr2 += 1
-            p += 1
+                ptr2 -= 1
+            
