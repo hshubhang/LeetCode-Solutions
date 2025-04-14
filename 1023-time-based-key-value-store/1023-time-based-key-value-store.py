@@ -2,14 +2,11 @@ class TimeMap:
 
     def __init__(self):
         self.timestamp_dict = {}
-        self.entry = None
-        
 
     def set(self, key: str, value: str, timestamp: int) -> None:
         if key not in self.timestamp_dict:
             self.timestamp_dict[key] = []
         self.timestamp_dict[key].append((timestamp, value))
-        self.entry = timestamp, value
     def get(self, key: str, timestamp: int) -> str:
         if key not in self.timestamp_dict:
             return ""
