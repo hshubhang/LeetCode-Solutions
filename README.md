@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0071-simplify-path) |
+| [0496-next-greater-element-i](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0883-car-fleet](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0883-car-fleet) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0271-encode-and-decode-strings](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0271-encode-and-decode-strings) |
 | [0346-moving-average-from-data-stream](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0346-moving-average-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0883-car-fleet) |
 ## Math
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1098-largest-unique-number](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1098-largest-unique-number) |
