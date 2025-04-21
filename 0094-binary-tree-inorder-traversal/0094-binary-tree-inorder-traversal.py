@@ -11,9 +11,9 @@ class Solution:
             if not node:
                 return []
 
-            left = inorder(node.left)
+            inorder(node.left)
             val.append(node.val)
-            right = inorder(node.right)
+            inorder(node.right)
 
             return val
         return inorder(root)
