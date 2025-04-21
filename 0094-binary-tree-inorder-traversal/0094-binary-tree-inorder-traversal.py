@@ -8,7 +8,6 @@ class Solution:
     def inorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
         val = []
         def inorder(node):
-            nonlocal val
             if not node:
                 return []
 
