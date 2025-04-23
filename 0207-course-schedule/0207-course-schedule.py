@@ -5,18 +5,12 @@ class Solution:
         for courses, prerequ in prerequisites:
             graph[prerequ].append(courses)
 
-        print(graph)
-
         indegree = {i: 0 for i in range(numCourses)}
-
-        print(indegree)
-
         for prerequ, courses in graph.items():
             for course in courses:
                 indegree[course] += 1
 
         queue = deque()
-
         for course, degree in indegree.items():
             if degree == 0:
                 queue.append(course)
