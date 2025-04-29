@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0339-nested-list-weight-sum](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0339-nested-list-weight-sum) |
 | [0404-sum-of-left-leaves](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0695-max-area-of-island](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1019-squares-of-a-sorted-array](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1036-rotting-oranges](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1098-largest-unique-number](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1098-largest-unique-number) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 ## Brainteaser
 |  |
 | ------- |
