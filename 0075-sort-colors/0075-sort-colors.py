@@ -13,5 +13,3 @@ class Solution:
             else:
                 nums[curr], nums[end] = nums[end], nums[curr]
                 end -= 1
-
-
