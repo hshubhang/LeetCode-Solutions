@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3321-type-of-triangle](https://github.com/hshubhang/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 | [0412-fizz-buzz](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
+| [3321-type-of-triangle](https://github.com/hshubhang/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
 ## Simulation
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1098-largest-unique-number](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1098-largest-unique-number) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [3321-type-of-triangle](https://github.com/hshubhang/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
 ## Divide and Conquer
 |  |
 | ------- |
