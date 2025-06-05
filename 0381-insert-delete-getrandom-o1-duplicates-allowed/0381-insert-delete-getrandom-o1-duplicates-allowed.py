@@ -40,13 +40,6 @@ class RandomizedCollection:
                
                 return True
         return False
-                # Dict = {1:(0,1), 2: (1)}
-                #remove(1)
-                #index_to_remove = 1
-                #last_element = 2
-                #last_index = 2
-                #dict[2].add(1)
-                #
             
 
 
