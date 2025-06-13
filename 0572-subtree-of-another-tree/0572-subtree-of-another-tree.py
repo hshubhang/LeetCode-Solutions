@@ -12,10 +12,8 @@ class Solution:
             return False
         
         def isSameTree(node, subNode):
-            if not node and not subNode:
-                return True
-            if not node and subNode or node and not subNode:
-                return False
+            if node is None or subNode is None:
+                return node is None and subNode is None
             if node.val != subNode.val:
                 return False
             leftSide = isSameTree(node.left, subNode.left)
