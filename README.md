@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [1753-path-with-minimum-effort](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0695-max-area-of-island](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
+| [1753-path-with-minimum-effort](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1391-counting-elements](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1391-counting-elements) |
 | [1603-running-sum-of-1d-array](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
+| [1753-path-with-minimum-effort](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2211-k-radius-subarray-averages](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2211-k-radius-subarray-averages) |
 | [2358-number-of-ways-to-split-array](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [1753-path-with-minimum-effort](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -323,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1753-path-with-minimum-effort](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -362,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
+| [1753-path-with-minimum-effort](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 ## Brainteaser
 |  |
 | ------- |
@@ -371,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
+| [1753-path-with-minimum-effort](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 ## Graph
 |  |
 | ------- |
