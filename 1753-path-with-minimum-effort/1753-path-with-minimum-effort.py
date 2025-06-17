@@ -9,10 +9,13 @@ class Solution:
         pq = [(0, 0, 0)]
         heapq.heapify(pq)
         directions = [(-1,0), (1,0), (0,-1), (0,1)]
+        visited = [[False] * col for _ in range(row)]
+
 
         while pq:
             
             effort, r, c = heapq.heappop(pq)
+            visited[r][c] = True
 
             if r == row - 1 and c == col - 1:
                 return effort
@@ -20,7 +23,7 @@ class Solution:
             for dr, dc in directions:
 
                 nr, nc = r + dr, c + dc
-                if 0 <= nr < row and 0 <= nc < col:
+                if 0 <= nr < row and 0 <= nc < col and not visited[nr][nc]:
                     current_diff = abs(heights[nr][nc] - heights[r][c])
                     new_effort = max(effort, current_diff)
 
