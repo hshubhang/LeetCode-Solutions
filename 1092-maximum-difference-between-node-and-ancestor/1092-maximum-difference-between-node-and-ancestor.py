@@ -10,14 +10,16 @@ class Solution:
         if not root:
             return 0
 
-        self.result = 0
+        result = 0
 
         def helper(node, curr_max, curr_min):
+            
+            nonlocal result
 
             if not node:
                 return None
 
-            self.result = max(self.result, abs(curr_max - node.val), abs(curr_min - node.val))
+            result = max(result, abs(curr_max - node.val), abs(curr_min - node.val))
 
             curr_max = max(curr_max, node.val)
             curr_min = min(curr_min, node.val)
@@ -26,5 +28,5 @@ class Solution:
 
         helper(root, root.val, root.val)
 
-        return self.result
+        return result
         
