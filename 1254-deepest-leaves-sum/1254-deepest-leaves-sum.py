@@ -17,8 +17,8 @@ class Solution:
 
                 node = queue.popleft()
 
-                #if not node.left and not node.right:
-                ans += node.val
+                if not node.left and not node.right:
+                    ans += node.val
 
                 if node.left:
                     queue.append(node.left)
