@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0366-find-leaves-of-binary-tree](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0366-find-leaves-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0339-nested-list-weight-sum](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0339-nested-list-weight-sum) |
 | [0366-find-leaves-of-binary-tree](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0366-find-leaves-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0339-nested-list-weight-sum](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0339-nested-list-weight-sum) |
 | [0404-sum-of-left-leaves](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0695-max-area-of-island](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1753-path-with-minimum-effort](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0366-find-leaves-of-binary-tree](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0366-find-leaves-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
