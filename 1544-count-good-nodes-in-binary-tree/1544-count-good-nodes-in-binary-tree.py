@@ -9,22 +9,19 @@ class Solution:
 
         if not root:
             return 0
-        #count = 0
+        count = 0
         def goodNodeCounter(node, maxSoFar):
             
             if not node:
                 return 0
-            #nonlocal count
-            count = 1 if node.val >= maxSoFar else 0
-            maxSoFar = max(maxSoFar, node.val)
+            nonlocal count
             if node.val >= maxSoFar:
                 maxSoFar = node.val
-                #count += 1
+                count += 1
 
 
-            leftside = goodNodeCounter(node.left, maxSoFar)
-            rightside = goodNodeCounter(node.right, maxSoFar)
-
-            return count + leftside + rightside
-
-        return goodNodeCounter(root, root.val)
+            goodNodeCounter(node.left, maxSoFar)
+            goodNodeCounter(node.right, maxSoFar)
+        
+        goodNodeCounter(root, root.val)
+        return count
