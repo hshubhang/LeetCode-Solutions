@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3321-type-of-triangle](https://github.com/hshubhang/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/hshubhang/LeetCode-Solutions/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Two Pointers
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0874-backspace-string-compare](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/hshubhang/LeetCode-Solutions/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Hash Table
 |  |
 | ------- |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1753-path-with-minimum-effort](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/hshubhang/LeetCode-Solutions/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Brainteaser
 |  |
 | ------- |
