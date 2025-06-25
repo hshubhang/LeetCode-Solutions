@@ -9,13 +9,20 @@ class Solution:
         if not root:
             return 0
 
-        total = 0
-        if low <= root.val <= high:
-            total += root.val
+        stack = ([root])
 
-        if low < root.val:
-            total += self.rangeSumBST(root.left, low, high) 
-        if root.val < high:
-            total += self.rangeSumBST(root.right, low, high)
+        ans = 0
 
-        return total
+        while stack:
+
+            node = stack.pop()
+
+            if low <= node.val <= high:
+                ans += node.val
+
+            if node.left and low < node.val:
+                stack.append(node.left)
+            if node.right and node.val < high:
+                stack.append(node.right)
+
+        return ans
