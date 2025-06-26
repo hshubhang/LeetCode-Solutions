@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0071-simplify-path) |
+| [0125-valid-palindrome](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0271-encode-and-decode-strings](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0271-encode-and-decode-strings) |
 | [0344-reverse-string](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0344-reverse-string) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0344-reverse-string) |
