@@ -3,20 +3,20 @@ import re
 class Solution:
     def isPalindrome(self, s: str) -> bool:
         
-        lowercase = s.lower()
-        cleaned = re.sub(r'[^a-zA-Z0-9]+', '', lowercase)
-        print(cleaned)
-        sList = list(cleaned)
-       
         left = 0
-        right = len(sList) - 1
+        right = len(s) - 1
 
         while left < right:
 
-            if sList[left] == sList[right]:
+            while left < right and not s[left].isalnum():
                 left+= 1
+            while left < right and not s[right].isalnum():
                 right -= 1
-            else:
-                return False
 
+            if s[left].lower() != s[right].lower():
+                return False
+            
+            left += 1
+            right -= 1
+        
         return True
