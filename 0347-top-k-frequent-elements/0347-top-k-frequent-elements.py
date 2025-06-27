@@ -8,7 +8,13 @@ class Solution:
             if i in hashmap:
                 hashmap[i] += 1
 
-        sorted_items = sorted(hashmap.items(), key=lambda item :item[1], reverse = True)
-        return list(item[0] for item in sorted_items[:k])
+        heap = []
+
+        for num, frequency in hashmap.items():
+            heapq.heappush(heap, (frequency, num))
+            if len(heap) > k:
+                heapq.heappop(heap)
+            
+        return [num for frequency, num in heap]
 
    
