@@ -3,10 +3,7 @@ class Solution:
         hashmap = defaultdict(int)
 
         for i in nums:
-            if i not in hashmap:
-                hashmap[i] = 0
-            if i in hashmap:
-                hashmap[i] += 1
+            hashmap[i] += 1
 
         heap = []
 
