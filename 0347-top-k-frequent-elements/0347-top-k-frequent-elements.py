@@ -1,10 +1,14 @@
-class Solution(object):
-    def topKFrequent(self, nums, k):
-        hashmap = {}
+class Solution:
+    def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+        hashmap = defaultdict(int)
+
         for i in nums:
             if i not in hashmap:
-                hashmap[i] = []
-            hashmap[i].append(i)
-        sorted_hash = sorted(hashmap, key=lambda k: len(hashmap[k]), reverse=True)
-        frequent_most = sorted_hash[:k]
-        return frequent_most
+                hashmap[i] = 0
+            if i in hashmap:
+                hashmap[i] += 1
+
+        sorted_items = sorted(hashmap.items(), key=lambda item :item[1], reverse = True)
+        return list(item[0] for item in sorted_items[:k])
+
+   
