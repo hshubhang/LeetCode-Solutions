@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -291,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
