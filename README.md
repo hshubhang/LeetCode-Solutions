@@ -459,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
+| [2024-calculate-special-bonus](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2024-calculate-special-bonus) |
 | [3282-calculate-compressed-mean](https://github.com/hshubhang/LeetCode-Solutions/tree/master/3282-calculate-compressed-mean) |
 ## Randomized
 |  |
