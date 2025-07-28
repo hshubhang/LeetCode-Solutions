@@ -8,17 +8,21 @@ class Solution:
     def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
         diameter = 0
 
-        def longest_path(node):
-            if not node:
-                return 0
+        def helper(node):
+
             nonlocal diameter
 
-            left_path = longest_path(node.left)
-            right_path = longest_path(node.right)
+            if not node:
+                return 0
 
-            diameter = max(diameter, left_path + right_path)
+            left = helper(node.left)
+            right = helper(node.right)
 
-            return max(left_path, right_path) + 1
+            currMax = max(left, right) + 1
 
-        longest_path(root)
+            diameter = max(diameter, left + right)
+
+            return max(left, right) + 1
+
+        helper(root)
         return diameter
