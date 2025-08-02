@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1753-path-with-minimum-effort](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2211-k-radius-subarray-averages](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2211-k-radius-subarray-averages) |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2358-number-of-ways-to-split-array](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1127-last-stone-weight) |
 | [1753-path-with-minimum-effort](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2310-minimum-operations-to-halve-array-sum) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -496,5 +498,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2469-longest-subsequence-with-limited-sum) |
 <!---LeetCode Topics End-->
