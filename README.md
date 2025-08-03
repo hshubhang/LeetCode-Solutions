@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
+| [1014-k-closest-points-to-origin](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0412-fizz-buzz](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
+| [1014-k-closest-points-to-origin](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [3321-type-of-triangle](https://github.com/hshubhang/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
 ## Simulation
 |  |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0883-car-fleet](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0883-car-fleet) |
+| [1014-k-closest-points-to-origin](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1098-largest-unique-number](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1098-largest-unique-number) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -312,12 +315,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1014-k-closest-points-to-origin](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1127-last-stone-weight) |
 | [1753-path-with-minimum-effort](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -338,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Design
 |  |
 | ------- |
@@ -508,4 +514,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-remove-stones-to-minimize-the-total](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2469-longest-subsequence-with-limited-sum) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
