@@ -10,4 +10,4 @@ class Solution:
         for j in range(len(parsed_string2)):
             hashmap[parsed_string2[j]] += 1
 
-        return [word for word, count in hashmap.items() if count == 1]
+        return [word for word in hashmap if hashmap[word] == 1]
