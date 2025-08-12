@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
+| [0974-reorder-data-in-log-files](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0974-reorder-data-in-log-files) |
 | [1023-time-based-key-value-store](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1297-maximum-number-of-balloons](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1297-maximum-number-of-balloons) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
+| [0974-reorder-data-in-log-files](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0974-reorder-data-in-log-files) |
 | [1014-k-closest-points-to-origin](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0883-car-fleet](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0883-car-fleet) |
+| [0974-reorder-data-in-log-files](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0974-reorder-data-in-log-files) |
 | [1014-k-closest-points-to-origin](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1098-largest-unique-number](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1098-largest-unique-number) |
