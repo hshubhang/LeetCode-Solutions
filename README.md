@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [0807-custom-sort-string](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0807-custom-sort-string) |
 | [0874-backspace-string-compare](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0974-reorder-data-in-log-files](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0974-reorder-data-in-log-files) |
 | [1023-time-based-key-value-store](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0807-custom-sort-string](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0807-custom-sort-string) |
 | [1023-time-based-key-value-store](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1098-largest-unique-number](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1098-largest-unique-number) |
 | [1297-maximum-number-of-balloons](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1297-maximum-number-of-balloons) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0807-custom-sort-string](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0807-custom-sort-string) |
 | [0883-car-fleet](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0883-car-fleet) |
 | [0974-reorder-data-in-log-files](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0974-reorder-data-in-log-files) |
 | [1014-k-closest-points-to-origin](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
