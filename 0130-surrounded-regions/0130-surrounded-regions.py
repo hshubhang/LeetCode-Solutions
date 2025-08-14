@@ -1,5 +1,8 @@
 class Solution:
     def solve(self, board: List[List[str]]) -> None:
+        if not board:
+            return
+        
         rows = len(board)
         cols = len(board[0])
 
