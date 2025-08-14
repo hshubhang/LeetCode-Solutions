@@ -6,30 +6,33 @@ class Solution:
         rows = len(grid)
         cols = len(grid[0])
 
-        visited = [[False for j in range(cols)] for i in range(rows)]
+        visited = [[False for c in range(cols)]for r in range(rows)]
 
-        counter = 0
-        def dfs (i, j):
-            if i < 0 or i >= rows or j < 0 or j >= cols or grid[i][j] == "0" or visited[i][j] == True:
-                return
-            
+        def bfs(i, j):
+            q = deque()
+            q.append((i,j))
             visited[i][j] = True
 
-            dfs(i-1, j)
-            dfs(i+1, j)
-            dfs(i, j+1)
-            dfs(i, j - 1)
+            while q:
+                row, col = q.popleft()
 
+                for dr, dc in [(-1, 0), (1, 0), (0, -1),(0, 1)]:
+                    nr = row + dr
+                    nc = col + dc
+
+                    if 0 <= nr < rows and 0 <= nc < cols and grid[nr][nc] == "1" and not visited[nr][nc]:
+                        visited[nr][nc] = True
+                        q.append((nr, nc))
+                        
+            
+        islands = 0
         for r in range(rows):
             for c in range(cols):
                 if grid[r][c] == "1" and not visited[r][c]:
-                    dfs(r,c)
-                    counter += 1
+                    bfs(r, c)
+                    islands += 1
 
-        return counter
-        
-
-
+        return islands
         
 
 
