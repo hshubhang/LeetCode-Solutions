@@ -21,10 +21,7 @@ class Solution:
             perimeter += dfs(i, j + 1)
 
             return perimeter
-        total_perimeter = 0
         for r in range(rows):
             for c in range(cols):
                 if grid[r][c] == 1 and not visited[r][c]:
-                    total_perimeter = dfs(r,c) 
-
-        return total_perimeter
+                    return dfs(r,c) 
