@@ -11,17 +11,14 @@ class Solution:
             return 0
         count = 0
         def goodNodeCounter(node, maxSoFar):
-            
+            nonlocal count
             if not node:
                 return 0
-            nonlocal count
             if node.val >= maxSoFar:
-                maxSoFar = node.val
+                maxSoFar = max(node.val, maxSoFar)          
                 count += 1
-
-
             goodNodeCounter(node.left, maxSoFar)
-            goodNodeCounter(node.right, maxSoFar)
-        
+            goodNodeCounter(node.right, maxSoFar)   
+
         goodNodeCounter(root, root.val)
         return count
