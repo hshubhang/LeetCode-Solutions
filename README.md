@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0252-meeting-rooms](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0252-meeting-rooms) |
+| [0253-meeting-rooms-ii](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0271-encode-and-decode-strings](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0271-encode-and-decode-strings) |
 | [0283-move-zeroes](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0253-meeting-rooms-ii](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0344-reverse-string) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0252-meeting-rooms](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0252-meeting-rooms) |
+| [0253-meeting-rooms-ii](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0253-meeting-rooms-ii](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -506,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0253-meeting-rooms-ii](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -591,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0253-meeting-rooms-ii](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0621-task-scheduler](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2094-remove-stones-to-minimize-the-total) |
