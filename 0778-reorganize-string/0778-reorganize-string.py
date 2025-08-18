@@ -4,10 +4,10 @@ class Solution:
             return s
         count = Counter(s)
         maxHeap = []
-        '''
+        
         if max(count.values()) > (len(s) + 1) // 2:
             return ""
-        '''
+        
         for char, cnt in count.items():    
             maxHeap.append((-cnt, char))
         heapq.heapify(maxHeap)
