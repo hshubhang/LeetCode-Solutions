@@ -4,7 +4,8 @@ class Solution:
         for right in range(len(prices)):
             while prices[left] > prices[right]:
                 left += 1
-            curr = prices[right] - prices[left]
-            best = max(best, curr)
-        
+            
+            best = max(best, prices[right] - prices[left])
+
         return best
+            
