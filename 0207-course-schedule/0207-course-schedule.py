@@ -1,28 +1,31 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        graph = defaultdict(list)
+        adjacency_list = {i : [] for i in range(numCourses) }
 
-        for courses, prerequ in prerequisites:
-            graph[prerequ].append(courses)
+        for course, prerequisite in prerequisites:
+            adjacency_list[course].append(prerequisite)
 
-        indegree = {i: 0 for i in range(numCourses)}
-        for prerequ, courses in graph.items():
-            for course in courses:
-                indegree[course] += 1
+        state = [0] * numCourses
 
-        queue = deque()
-        for course, degree in indegree.items():
-            if degree == 0:
-                queue.append(course)
-        
-        while queue:
-            curr_course = queue.popleft()
-            for depen in graph[curr_course]:
-                indegree[depen] -= 1
-                if indegree[depen] == 0:
-                    queue.append(depen)
+        def dfs(node):
+            if state[node] == 1:
+                return False
+            if state[node] == 2:
+                return True
+            
+            state[node] = 1
 
-        return all(degree == 0 for degree in indegree.values())
+            for neighbor in adjacency_list[node]:
+                if not dfs(neighbor):
+                    return False
+                
+            state[node] = 2
+            return True
 
+        for course in range(numCourses):
+            if state[course] == 0:
+                if not dfs(course):
+                    return False
+            
+        return True
 
-        
