@@ -8,9 +8,17 @@ class Solution:
     def maxDepth(self, root: Optional[TreeNode]) -> int:
         if not root:
             return 0
-        #depth = 0
-        left = self.maxDepth(root.left)
-        right = self.maxDepth(root.right)
-        #depth += 1
+        depth = 0
+        queue = deque([root])
 
-        return max(left, right) + 1
+        while queue:
+            node_on_curr_level = len(queue)
+            for i in range(node_on_curr_level):
+                node = queue.popleft()
+                if node.left:
+                    queue.append(node.left)
+                if node.right:
+                    queue.append(node.right)
+            depth += 1
+
+        return depth
