@@ -4,10 +4,22 @@ class Solution:
         m = len(matrix)
         n = len(matrix[0])
 
-        for i in range(m):
-            for j in range(n):
-                if matrix[i][j] == target:
-                    return True
+        left = 0
+        right = m * n - 1
+
+        while left <= right:
+            mid = (left + right) // 2
+
+            row = mid // n
+            col = mid % n
+
+            if matrix[row][col] == target:
+                return True
+            elif matrix[row][col] > target:
+                right = mid -1
+            else:   
+                left = mid + 1
+            
         
         return False
 
