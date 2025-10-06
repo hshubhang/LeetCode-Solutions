@@ -1,35 +1,28 @@
 class Solution:
     def getOrder(self, tasks: List[List[int]]) -> List[int]:
         res = []
-
-        minheap = []
-        heapq.heapify(minheap)
-
-        available_tasks = []
-
-        for idx, (enqueue_time, process_time) in enumerate(tasks):
-            available_tasks.append((enqueue_time, process_time, idx))
-
-        available_tasks.sort()
+        min_heap = []
         n = len(tasks)
-        time = 0
+
+        heapq.heapify(min_heap)
+        task = sorted([(enqueue_time, process_time, i) for i, (enqueue_time, process_time) in enumerate(tasks)], key=lambda x:x[0])
         i = 0
-
-        while len(res) < n:
-            if not minheap and i < n and time < available_tasks[i][0]:
-                time = available_tasks[i][0]
-
-            while i < n and available_tasks[i][0] <= time:
-                eneque_time, processing_time, idx = available_tasks[i]
-                heapq.heappush(minheap, (processing_time, idx))
+        t = 1
+        while i < n or min_heap:
+            while i < n and task[i][0] <= t:
+                et, pt, idx = task[i]
+                heapq.heappush(min_heap, (pt, idx))
                 i += 1
+            if min_heap:
+                process_time, index = heapq.heappop(min_heap)
+                res.append(index)
+                t += process_time
+            else:
+                t = max(t, task[i][0])
 
-            if minheap:
-                processing_time, idx = heapq.heappop(minheap)
-                res.append(idx)
-                time += processing_time
-            
         return res
 
 
+
+            
 
