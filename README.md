@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0684-redundant-connection](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0871-keys-and-rooms](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0871-keys-and-rooms) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0684-redundant-connection](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0871-keys-and-rooms](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0871-keys-and-rooms) |
@@ -594,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0261-graph-valid-tree](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [1753-path-with-minimum-effort](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
@@ -607,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0261-graph-valid-tree](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0871-keys-and-rooms](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0871-keys-and-rooms) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
