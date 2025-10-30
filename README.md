@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-k-radius-subarray-averages](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2211-k-radius-subarray-averages) |
 | [2245-destroying-asteroids](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2245-destroying-asteroids) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2358-number-of-ways-to-split-array](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-counting-elements](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1391-counting-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [2211-k-radius-subarray-averages](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2211-k-radius-subarray-averages) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Prefix Sum
 |  |
