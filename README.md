@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3321-type-of-triangle](https://github.com/hshubhang/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Sorting
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-single-threaded-cpu](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1962-single-threaded-cpu) |
 | [2245-destroying-asteroids](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2245-destroying-asteroids) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3321-type-of-triangle](https://github.com/hshubhang/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
 ## Divide and Conquer
 |  |
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-single-threaded-cpu](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1962-single-threaded-cpu) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Bucket Sort
 |  |
 | ------- |
