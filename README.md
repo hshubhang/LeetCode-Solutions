@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0975-range-sum-of-bst) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1254-deepest-leaves-sum](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1254-deepest-leaves-sum) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0871-keys-and-rooms](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0871-keys-and-rooms) |
 | [0975-range-sum-of-bst](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0975-range-sum-of-bst) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0753-open-the-lock](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0753-open-the-lock) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0871-keys-and-rooms](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0871-keys-and-rooms) |
 | [0945-snakes-and-ladders](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0975-range-sum-of-bst) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1254-deepest-leaves-sum](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1254-deepest-leaves-sum) |
@@ -686,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0975-range-sum-of-bst) |
 ## Greedy
 |  |
