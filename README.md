@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0270-closest-binary-search-tree-value](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0270-closest-binary-search-tree-value) |
 | [0366-find-leaves-of-binary-tree](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0366-find-leaves-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0261-graph-valid-tree](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0261-graph-valid-tree) |
 | [0270-closest-binary-search-tree-value](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0270-closest-binary-search-tree-value) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0270-closest-binary-search-tree-value](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0270-closest-binary-search-tree-value) |
 | [0366-find-leaves-of-binary-tree](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0366-find-leaves-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0127-word-ladder) |
+| [0257-binary-tree-paths](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0271-encode-and-decode-strings](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0271-encode-and-decode-strings) |
 | [0344-reverse-string](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0399-evaluate-division](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0399-evaluate-division) |
@@ -723,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 ## Shortest Path
 |  |
 | ------- |
