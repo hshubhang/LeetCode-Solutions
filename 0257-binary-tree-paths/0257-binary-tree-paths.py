@@ -6,27 +6,21 @@
 #         self.right = right
 class Solution:
     def binaryTreePaths(self, root: Optional[TreeNode]) -> List[str]:
-        ans_arr = []
-        if not root:
-            return []
-        def helper(node, new_str):
 
-            if not node:
-                return
-                
-            if node:
-                new_str += f"{node.val}"
+        ans_arr = []
+
+        queue = deque([(root, str(root.val))])
+
+        while queue:
+            node, path = queue.popleft()
 
             if not node.left and not node.right:
-                ans_arr.append(new_str)
+                ans_arr.append(path)
 
-            else:
+            if node.left:
+                queue.append((node.left, f"{path}" + "->" f"{node.left.val}"))
+            if node.right:
+                queue.append((node.right, f"{path}" + "->" + f"{node.right.val}"))
 
-                new_str += "->"
-
-                helper(node.left, new_str)
-                helper(node.right, new_str)
-
-        helper(root, "")
-
+        
         return ans_arr
