@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0753-open-the-lock](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0778-reorganize-string) |
+| [0782-jewels-and-stones](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
 | [0807-custom-sort-string](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0807-custom-sort-string) |
 | [0874-backspace-string-compare](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0753-open-the-lock](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0778-reorganize-string) |
+| [0782-jewels-and-stones](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
 | [0807-custom-sort-string](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0807-custom-sort-string) |
 | [0817-design-hashmap](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0817-design-hashmap) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
