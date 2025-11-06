@@ -1,5 +1,6 @@
 class Solution:
     def compress(self, chars: List[str]) -> int:
+        s = []
         S = []
         count = 0
         left = 0
@@ -12,16 +13,20 @@ class Solution:
                 right += 1
             elif chars[right] != chars[left]:
                 if count == 1:
+                    s += f"{chars[left]}"
                     S.append(chars[left])
-                else: 
+                else:
+                    s += f"{chars[left]}{count}" 
                     S.append(chars[left])
                     S.append(str(count))
                 left = right
                 count = 0
             
         if count == 1:
+            s += f"{chars[left]}"
             S.append(chars[left])
         else:
+            s += f"{chars[left]}{count}" 
             S.append(chars[left])
             S.append(str(count))
 
@@ -31,7 +36,7 @@ class Solution:
         for i in range(len(new_str)):
             chars[i] = new_str[i]
         
-        return len(new_str)
+        return len(s)
                 
 
         
