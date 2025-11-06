@@ -16,11 +16,9 @@ class Solution:
                 c_count += 1
                 active += 1
                 max_active_seen = max(max_active_seen, active)
-                continue
             elif i == "r" and c_count:
                 r_count += 1
                 c_count -= 1
-                continue
             elif i == "o" and r_count:
                 o_count += 1
                 r_count -= 1
