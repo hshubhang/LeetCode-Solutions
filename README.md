@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2358-number-of-ways-to-split-array](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
+| [2428-equal-row-and-column-pairs](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0874-backspace-string-compare](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
+| [2428-equal-row-and-column-pairs](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/hshubhang/LeetCode-Solutions/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Hash Table
 |  |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2428-equal-row-and-column-pairs](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -639,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2428-equal-row-and-column-pairs](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/hshubhang/LeetCode-Solutions/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Brainteaser
 |  |
