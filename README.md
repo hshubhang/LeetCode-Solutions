@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0271-encode-and-decode-strings](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0271-encode-and-decode-strings) |
 | [0344-reverse-string](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0399-evaluate-division](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0383-ransom-note](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0778-reorganize-string) |
