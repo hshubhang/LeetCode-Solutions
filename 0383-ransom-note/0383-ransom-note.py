@@ -4,8 +4,8 @@ class Solution:
         ransomNote_count = Counter(ransomNote)
         magazine_count = Counter(magazine)
 
-        print(ransomNote_count)
-        print(magazine_count)
+        if len(ransomNote) > len(magazine):
+            return False
 
         for i in ransomNote_count:
             if i not in magazine_count:
