@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1391-counting-elements](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1391-counting-elements) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1753-path-with-minimum-effort](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1962-single-threaded-cpu](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1962-single-threaded-cpu) |
@@ -618,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2469-longest-subsequence-with-limited-sum) |
