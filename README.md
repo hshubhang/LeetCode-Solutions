@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
+| [1448-maximum-69-number](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
 | [3321-type-of-triangle](https://github.com/hshubhang/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
 ## Simulation
 |  |
@@ -728,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0778-reorganize-string) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1126-minimum-cost-to-connect-sticks) |
+| [1448-maximum-69-number](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2245-destroying-asteroids](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2245-destroying-asteroids) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2310-minimum-operations-to-halve-array-sum) |
