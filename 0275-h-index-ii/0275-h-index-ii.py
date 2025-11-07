@@ -6,12 +6,20 @@ class Solution:
         if not citations:
             return 0
 
-        for i in range(n):
-            remaining_papers = n - i
+        left = 0
+        right = len(citations)
 
-            if citations[i] >= remaining_papers:
-                count = max(count, remaining_papers)
-            
+        while left < right:
+
+            mid = (left + right) // 2
+
+            remaining = n - mid
+
+            if citations[mid] >= remaining:
+                right = mid
+            else:
+                left = mid + 1
+                
+
         
-        return count
-
+        return n - left
