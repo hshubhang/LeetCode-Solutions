@@ -1,11 +1,12 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
         left = best = curr = 0
+
         for right in range(len(prices)):
-            while prices[left] > prices[right]:
+
+            while left != right and  prices[right] < prices[left]:
                 left += 1
-            
-            best = max(best, prices[right] - prices[left])
+            curr = prices[right] - prices[left]
+            best = max(best, curr)
 
         return best
-            
