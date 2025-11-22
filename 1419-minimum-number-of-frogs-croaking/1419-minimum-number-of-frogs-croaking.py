@@ -1,10 +1,10 @@
 class Solution:
     def minNumberOfFrogs(self, croakOfFrogs: str) -> int:
         max_active_seen = 0
-        #count_of_chars = Counter(croakOfFrogs)
+        count_of_chars = Counter(croakOfFrogs)
         active = 0
-        #if len(set(count_of_chars.values())) != 1:
-            #return -1
+        if len(set(count_of_chars.values())) != 1:
+            return -1
         
         c_count = 0
         r_count = 0
