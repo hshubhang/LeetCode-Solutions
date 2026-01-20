@@ -1,6 +1,10 @@
 class Solution:
     def splitArray(self, nums: List[int], k: int) -> int:
         
+
+        if len(nums) < k:
+            return -1
+            
         low = max(nums)
         high = sum(nums)
         result = -1
