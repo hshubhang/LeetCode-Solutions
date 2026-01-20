@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0945-snakes-and-ladders](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [0974-reorder-data-in-log-files](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0974-reorder-data-in-log-files) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1014-k-closest-points-to-origin](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
@@ -595,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1023-time-based-key-value-store](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1192-divide-chocolate](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1192-divide-chocolate) |
