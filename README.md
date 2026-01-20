@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0399-evaluate-division](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0399-evaluate-division) |
+| [0410-split-array-largest-sum](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0463-island-perimeter](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0463-island-perimeter) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [1013-fibonacci-number](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## Monotonic Stack
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
@@ -623,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0253-meeting-rooms-ii) |
+| [0410-split-array-largest-sum](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -735,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0253-meeting-rooms-ii](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0253-meeting-rooms-ii) |
+| [0410-split-array-largest-sum](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0778-reorganize-string) |
