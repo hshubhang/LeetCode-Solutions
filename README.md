@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1753-path-with-minimum-effort](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2039-the-time-when-the-network-becomes-idle](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2121-find-if-path-exists-in-graph](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Binary Tree
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1962-single-threaded-cpu](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1962-single-threaded-cpu) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2039-the-time-when-the-network-becomes-idle](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2211-k-radius-subarray-averages](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2211-k-radius-subarray-averages) |
 | [2245-destroying-asteroids](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2245-destroying-asteroids) |
@@ -777,4 +779,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0274-h-index) |
+## Graph Theory
+|  |
+| ------- |
+| [2039-the-time-when-the-network-becomes-idle](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2039-the-time-when-the-network-becomes-idle) |
 <!---LeetCode Topics End-->
