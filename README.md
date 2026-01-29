@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0752-open-the-lock](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0752-open-the-lock) |
 | [0753-open-the-lock](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0753-open-the-lock) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0871-keys-and-rooms](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0871-keys-and-rooms) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [0752-open-the-lock](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0752-open-the-lock) |
 | [0753-open-the-lock](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [0752-open-the-lock](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0752-open-the-lock) |
 | [0753-open-the-lock](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0753-open-the-lock) |
 | [0792-binary-search](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0817-design-hashmap) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0752-open-the-lock](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0752-open-the-lock) |
 | [0753-open-the-lock](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
