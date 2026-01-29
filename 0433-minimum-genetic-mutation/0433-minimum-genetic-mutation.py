@@ -16,26 +16,19 @@ class Solution:
             
             return ans
         
-        queue = deque([startGene])
-        steps = 0
+        queue = deque([(startGene, 0)])
         while queue:
-            nodes_at_curr_level = len(queue)
 
-            for _ in range(nodes_at_curr_level):
-                
-                node = queue.popleft()
+            node, steps = queue.popleft()
 
-                if node == endGene:
-                    return steps
-
-                
-                for neighbor in neighboring_genes(node):
-                    if neighbor not in seen and neighbor in bank:
-                        seen.add(neighbor)
-                        queue.append(neighbor)
+            if node == endGene:
+                return steps
 
             
-            steps += 1
+            for neighbor in neighboring_genes(node):
+                if neighbor not in seen and neighbor in bank:
+                    seen.add(neighbor)
+                    queue.append((neighbor, steps + 1))
 
         return -1
     
