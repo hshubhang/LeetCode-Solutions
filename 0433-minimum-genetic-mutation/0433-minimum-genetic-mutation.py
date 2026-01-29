@@ -2,8 +2,8 @@ class Solution:
     def minMutation(self, startGene: str, endGene: str, bank: List[str]) -> int:
         
 
-        seen = set(startGene)
-
+        seen = {startGene}
+        print(seen)
         def neighboring_genes(node):
             ans = []
             for i in range(8):
