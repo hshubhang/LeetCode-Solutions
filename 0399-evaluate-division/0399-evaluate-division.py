@@ -1,40 +1,44 @@
 class Solution:
     def calcEquation(self, equations: List[List[str]], values: List[float], queries: List[List[str]]) -> List[float]:
+
         ans = []
-        def dfs(start, end):
-            seen = set()
 
-            if start not in graph or end not in graph:
-                return -1
-            seen = {start}
-            stack = [(start, 1)]
-            while stack:
-                node, ratio = stack.pop()
-                if node == end:
-                    return ratio
+        graph = {}
 
-                for neighbor in graph[node]:
-                    if neighbor not in seen:
-                        seen.add(neighbor)
-                        stack.append((neighbor, ratio * graph[node][neighbor]))
+        for (a, b), i in zip(equations, values):
+            if a not in graph:
+                graph[a] = {}
+            graph[a][b] = i
+         
+            if b not in graph:
+                graph[b] = {}
+            graph[b][a] = 1/i
+
+        def dfs(node, target, product, visited):
+            if node == target:
+                return product
+            
+            visited.add(node)
+            for neighbor in graph[node]:
+                if neighbor not in visited:
+                    visited.add(neighbor)
+                    result = dfs(neighbor, target, product * graph[node][neighbor], visited)
+                    if result != -1:
+                        return result
 
             return -1
+
+        for i in range(len(queries)):
             
-                
-
-
-        graph = defaultdict(dict)
-        for i in range(len(equations)):
-            numerator, denominator = equations[i]
-
-            val = values[i]
-
-            graph[numerator][denominator] = val
-            graph[denominator][numerator] = 1 / val
-
-        print(graph)
-
-        for start, end in queries:
-            ans.append(dfs(start, end))
+            visited = set()
+            node, target = queries[i]
+            if node not in graph or target not in graph:
+                ans.append(-1)
+                continue
+            if node == target:
+                ans.append(1.0)
+                continue
+            ans.append(dfs(node, target, 1.0, visited))
 
         return ans
+
