@@ -2,9 +2,8 @@ class Solution:
     def calcEquation(self, equations: List[List[str]], values: List[float], queries: List[List[str]]) -> List[float]:
 
         ans = []
-
+        #build a weighted graph
         graph = {}
-
         for (a, b), i in zip(equations, values):
             if a not in graph:
                 graph[a] = {}
@@ -14,6 +13,7 @@ class Solution:
                 graph[b] = {}
             graph[b][a] = 1/i
 
+        #build a dfs traversal since we are interested in finding a path rather than finding the shortest path
         def dfs(node, target, product, visited):
             if node == target:
                 return product
@@ -28,6 +28,7 @@ class Solution:
 
             return -1
 
+        #traverse through the queries
         for i in range(len(queries)):
             
             visited = set()
