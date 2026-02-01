@@ -1,38 +1,36 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
+        
 
         graph = defaultdict(list)
 
         for course, prerequisite in prerequisites:
-            graph[prerequisite].append(course)
+            graph[course].append(prerequisite)
 
 
-        path = set()
-        visited = set()
+        state = [0] * numCourses
 
         def dfs(node):
 
-            if node in path:
+            if state[node] == 1:
                 return False
-
-            if node in visited:
+            if state[node] == 2:
                 return True
 
-            path.add(node)
+            state[node] = 1
 
             for neighbor in graph[node]:
                 if not dfs(neighbor):
                     return False
 
-            
-            path.remove(node)
-            visited.add(node)
-
+        
+            state[node] = 2
             return True
 
         for i in range(numCourses):
-            if not dfs(i):
-                return False
+            if state[i] == 0:
+                if not dfs(i):
+                    return False
 
         return True
 
