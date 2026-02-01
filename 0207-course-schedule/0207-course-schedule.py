@@ -1,31 +1,42 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        adjacency_list = {i : [] for i in range(numCourses) }
+
+        graph = defaultdict(list)
 
         for course, prerequisite in prerequisites:
-            adjacency_list[course].append(prerequisite)
+            graph[prerequisite].append(course)
 
-        state = [0] * numCourses
+
+        path = set()
+        visited = set()
 
         def dfs(node):
-            if state[node] == 1:
-                return False
-            if state[node] == 2:
-                return True
-            
-            state[node] = 1
 
-            for neighbor in adjacency_list[node]:
+            if node in path:
+                return False
+
+            if node in visited:
+                return True
+
+            path.add(node)
+
+            for neighbor in graph[node]:
                 if not dfs(neighbor):
                     return False
-                
-            state[node] = 2
+
+            
+            path.remove(node)
+            visited.add(node)
+
             return True
 
-        for course in range(numCourses):
-            if state[course] == 0:
-                if not dfs(course):
-                    return False
-            
+        for i in range(numCourses):
+            if not dfs(i):
+                return False
+
         return True
+
+        
+
+
 
