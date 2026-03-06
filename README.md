@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1419-minimum-number-of-frogs-croaking](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1419-minimum-number-of-frogs-croaking) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1666-make-the-string-great](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1666-make-the-string-great) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Stack
