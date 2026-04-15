@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1753-path-with-minimum-effort](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1962-single-threaded-cpu](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1962-single-threaded-cpu) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1098-largest-unique-number](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1098-largest-unique-number) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1710-maximum-units-on-a-truck](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1962-single-threaded-cpu](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1962-single-threaded-cpu) |
 | [2245-destroying-asteroids](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2245-destroying-asteroids) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -768,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0778-reorganize-string) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1448-maximum-69-number](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
+| [1710-maximum-units-on-a-truck](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2245-destroying-asteroids](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2245-destroying-asteroids) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2310-minimum-operations-to-halve-array-sum) |
