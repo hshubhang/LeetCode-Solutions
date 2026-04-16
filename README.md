@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1192-divide-chocolate](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1192-divide-chocolate) |
+| [1196-how-many-apples-can-you-put-into-the-basket](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1196-how-many-apples-can-you-put-into-the-basket) |
 | [1306-jump-game-iii](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1306-jump-game-iii) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1391-counting-elements](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1391-counting-elements) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1098-largest-unique-number](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1098-largest-unique-number) |
+| [1196-how-many-apples-can-you-put-into-the-basket](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1196-how-many-apples-can-you-put-into-the-basket) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1710-maximum-units-on-a-truck](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1962-single-threaded-cpu](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1962-single-threaded-cpu) |
@@ -769,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0778-reorganize-string) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1126-minimum-cost-to-connect-sticks) |
+| [1196-how-many-apples-can-you-put-into-the-basket](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1196-how-many-apples-can-you-put-into-the-basket) |
 | [1448-maximum-69-number](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
 | [1710-maximum-units-on-a-truck](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2094-remove-stones-to-minimize-the-total) |
