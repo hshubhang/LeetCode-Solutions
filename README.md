@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1192-divide-chocolate](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1192-divide-chocolate) |
 | [1196-how-many-apples-can-you-put-into-the-basket](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1196-how-many-apples-can-you-put-into-the-basket) |
 | [1306-jump-game-iii](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1306-jump-game-iii) |
+| [1338-reduce-array-size-to-the-half](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1391-counting-elements](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1391-counting-elements) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1098-largest-unique-number](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1098-largest-unique-number) |
 | [1297-maximum-number-of-balloons](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1297-maximum-number-of-balloons) |
+| [1338-reduce-array-size-to-the-half](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1391-counting-elements](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1391-counting-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1098-largest-unique-number](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1098-largest-unique-number) |
 | [1196-how-many-apples-can-you-put-into-the-basket](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1196-how-many-apples-can-you-put-into-the-basket) |
+| [1338-reduce-array-size-to-the-half](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1710-maximum-units-on-a-truck](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1962-single-threaded-cpu](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1962-single-threaded-cpu) |
@@ -513,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1127-last-stone-weight](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1127-last-stone-weight) |
+| [1338-reduce-array-size-to-the-half](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1753-path-with-minimum-effort](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1962-single-threaded-cpu](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1962-single-threaded-cpu) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -772,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/hshubhang/LeetCode-Solutions/tree/master/0778-reorganize-string) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1196-how-many-apples-can-you-put-into-the-basket](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1196-how-many-apples-can-you-put-into-the-basket) |
+| [1338-reduce-array-size-to-the-half](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1448-maximum-69-number](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
 | [1710-maximum-units-on-a-truck](https://github.com/hshubhang/LeetCode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/hshubhang/LeetCode-Solutions/tree/master/2094-remove-stones-to-minimize-the-total) |
